@@ -1,3 +1,6 @@
 Braian Cespedes
 default via 10.0.2.2 dev enp0s3 proto dhcp metric 100 
 23:05:40
+Santiago Fossa
+default via 192.168.0.1 dev enp0s3 proto dhcp metric 100 
+23:09:21
